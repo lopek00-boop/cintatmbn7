@@ -1,6 +1,0 @@
-=== CSV SUMMARY STATISTICS REPORT ===
-Total Records: 5
-Average Age: 21.2
-Average Score: 87.2
-Highest Score: 95.0 (Achieved by Diana)
-Lowest Score: 78.0
