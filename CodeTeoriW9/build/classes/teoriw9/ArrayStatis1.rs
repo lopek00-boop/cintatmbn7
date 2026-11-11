@@ -1,1 +1,0 @@
-ArrayStatis1
